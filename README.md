@@ -3,6 +3,19 @@
 ![image](https://github.com/makskhv21/Random-quotes/assets/113525627/d4eda84c-8b58-4900-bc8f-01e150a412ab)
 
 
+## :hugs: Introduction:
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
