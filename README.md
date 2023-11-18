@@ -1,2 +1,2 @@
 # Random-quotes
-![image](https://github.com/makskhv21/Random-quotes/assets/113525627/7ac8dcaa-29da-46b2-a5eb-b6435dc7b89c)
+![Знімок екрана 2023-11-18 152434](https://github.com/makskhv21/Random-quotes/assets/113525627/c2a66b8c-8980-4608-a020-a845e9e8e7bc)
