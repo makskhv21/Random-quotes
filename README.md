@@ -1,6 +1,7 @@
 # Random quotes app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/makskhv21/Random-quotes/assets/113525627/967b5816-7a14-4ded-bcb0-026149e3523d)
+
 
 ## Available Scripts
 
