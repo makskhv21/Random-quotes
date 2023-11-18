@@ -2,6 +2,7 @@
 ![image](https://github.com/makskhv21/Random-quotes/assets/113525627/123244c1-e112-4437-9dab-0c8262ce3d68)
 ![image](https://github.com/makskhv21/Random-quotes/assets/113525627/d4eda84c-8b58-4900-bc8f-01e150a412ab)
 
+#
 
 ## :hugs: Introduction:
 
@@ -11,6 +12,25 @@ This is a classic random quote generator app that will help you lift your spirit
 
 All links are below.
 
+#
+
+## :cowboy_hat_face: APIs used:
+
+- [Random Quotes API](https://github.com/lukePeavey/quotable) for the random Quotes
+
+- [Lorem Picsum](https://picsum.photos/) for the random Pictures.
+
+```
+
+// quotes
+https://api.quotable.io/random
+
+// images
+https://picsum.photos/seed/picsum/200/300
+
+```
+
+#
 
 
 
