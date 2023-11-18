@@ -1,0 +1,30 @@
+.text-card {
+  width: 300px;
+  height: 450px;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  background-image: url('https://picsum.photos/300/450');
+  border-radius: 12px;
+}
+
+.overlay {
+  color:white;
+  text-align: center;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.one {
+  font-size: 23px;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+.two {
+  font-size: 18px;
+  padding-bottom: 40px;
+}
+
+.three {
+  font-size: 20px;
+}
