@@ -5,7 +5,11 @@
 
 ## :hugs: Introduction:
 
+This web application which is built with ReactJs.
 
+This is a classic random quote generator app that will help you lift your spirits and motivate you.
+
+All links are below.
 
 
 
