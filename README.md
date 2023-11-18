@@ -1,6 +1,7 @@
 # Random quotes app
+![image](https://github.com/makskhv21/Random-quotes/assets/113525627/123244c1-e112-4437-9dab-0c8262ce3d68)
+![image](https://github.com/makskhv21/Random-quotes/assets/113525627/d4eda84c-8b58-4900-bc8f-01e150a412ab)
 
-![image](https://github.com/makskhv21/Random-quotes/assets/113525627/967b5816-7a14-4ded-bcb0-026149e3523d)  ![Знімок екрана 2023-11-18 151510](https://github.com/makskhv21/Random-quotes/assets/113525627/82c22f43-30ec-4ebc-ba9f-c4d791d3504a)
 
 
 ## Available Scripts
