@@ -1,9 +1,10 @@
 # Random quotes app
 
-![image](https://github.com/makskhv21/Random-quotes/assets/113525627/967b5816-7a14-4ded-bcb0-026149e3523d)
+![image](https://github.com/makskhv21/Random-quotes/assets/113525627/967b5816-7a14-4ded-bcb0-026149e3523d)  ![Знімок екрана 2023-11-18 151510](https://github.com/makskhv21/Random-quotes/assets/113525627/82c22f43-30ec-4ebc-ba9f-c4d791d3504a)
 
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
