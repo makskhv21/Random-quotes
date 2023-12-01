@@ -4,7 +4,7 @@
 
 #
 
-##:hugs: Introduction:
+# :hugs: Introduction:
 
 This web application which is built with ReactJs.
 
