@@ -1,5 +1,4 @@
-## Live Demo :rocket:
-[Space Adventure Game](https://example.com)
+## :rocket: [Live Demo ](https://example.com)
 
 
 #
