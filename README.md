@@ -34,7 +34,9 @@ https://picsum.photos/seed/picsum/200/300
 
 #
 
-## :package: Packages used:
+## :package: Packages used
+
+
 #
 
 1. The ReactJS app was initialised with [Vite.](https://vitejs.dev/)
