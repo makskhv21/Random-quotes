@@ -14,7 +14,9 @@ All links are below.
 
 #
 
-## :cowboy_hat_face: APIs used:
+
+## :cowboy_hat_face: APIs used
+
 
 - [Random Quotes API](https://github.com/lukePeavey/quotable) for the random Quotes
 
