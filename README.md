@@ -1,5 +1,3 @@
-## :rocket: [Live Demo ](https://example.com)
-
 
 #
 
