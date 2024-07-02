@@ -1,21 +1,12 @@
-# Random quotes app
+# Random quotes app 
 
-Random Quotes App is a web application that displays random quotes to the user. With this app, the user can get a random quote from a motivational, inspirational or entertaining collection. The application is implemented using React for the frontend and can be easily extended or adapted for different user interface needs.
+Random Quotes App is a web application that displays random quotes to the user. With this app, the user can get a random quote from a motivational, inspirational, or entertaining collection. The application is implemented using React for the frontend and can be easily extended or adapted for different user interface needs. 
+All links are below. :hugs:
 
-## How the program works ### :rocket:
+## :rocket: How the program works 
 ![alt text](/vite-project/src/assets/image-1.png) ![alt text](/vite-project/src/assets/image.png)
 
-## :hugs: Introduction
-
-This web application which is built with ReactJs.
-
-This is a classic random quote generator app that will help you lift your spirits and motivate you.
-
-All links are below.
-
-
 ## :cowboy_hat_face: APIs used
-
 
 - [Random Quotes API](https://github.com/lukePeavey/quotable) for the random Quotes
 
