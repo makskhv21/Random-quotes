@@ -1,8 +1,6 @@
-
 # Random quotes app
-![image](https://github.com/makskhv21/Random-quotes/assets/113525627/123244c1-e112-4437-9dab-0c8262ce3d68)
-![image](https://github.com/makskhv21/Random-quotes/assets/113525627/d4eda84c-8b58-4900-bc8f-01e150a412ab)
 
+![alt text](/vite-project/src/assets/image-1.png) ![alt text](/vite-project/src/assets/image.png)
 #
 
 ## :hugs: Introduction
