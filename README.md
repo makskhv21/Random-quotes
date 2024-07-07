@@ -4,7 +4,7 @@ Random Quotes App is a web application that displays random quotes to the user. 
 All links are below. :hugs:
 
 ## :rocket: How the program works 
-![alt text](/vite-project/src/assets/image-1.png) ![alt text](/vite-project/src/assets/image.png)
+![image](/vite-project/src/assets/image-1.png) ![image](/vite-project/src/assets/image.png)
 
 ## :cowboy_hat_face: APIs used
 
